@@ -10,4 +10,8 @@
     <Folder Include="Configuraions\" />
   </ItemGroup>
 
+	<ItemGroup>
+		<ProjectReference Include="..\..\Tajan.Application\Tajan.Application.csproj" />
+		<ProjectReference Include="..\..\Tajan.Domain\Tajan.Domain.csproj" />
+	</ItemGroup>
 </Project>
