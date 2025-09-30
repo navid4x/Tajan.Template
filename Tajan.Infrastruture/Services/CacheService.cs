@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tajan.Infrastruture.Persistence.Logging
+namespace Tajan.Infrastructure.Persistense.Services
 {
-    internal class LoggerService
+    internal class CacheService
     {
     }
 }
