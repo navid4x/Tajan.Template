@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tajan.Domain", "Tajan.Domai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tajan.WebUI", "Tajan.WebUI\Tajan.WebUI.csproj", "{1A276AE1-E593-4C2D-8BD5-E9D14B4A61AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tajan.Infrastruture.Persistence", "Tajan.Infrastruture\Tajan.Infrastructure.Persistense\Tajan.Infrastruture.Persistence.csproj", "{553AD63F-3E49-6A49-32D0-AC054EF0BD97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tajan.Infrastructure.Persistence", "Tajan.Infrastruture\Tajan.Infrastructure.Persistense\Tajan.Infrastructure.Persistence.csproj", "{553AD63F-3E49-6A49-32D0-AC054EF0BD97}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tajan.Infrastructure.External", "Tajan.Infrastruture\Tajan.Infrastructure.External\Tajan.Infrastructure.External.csproj", "{EB340EE2-FA77-6085-1995-45CEDFC78A89}"
 EndProject

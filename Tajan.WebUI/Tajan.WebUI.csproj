@@ -16,7 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Tajan.Application\Tajan.Application.csproj" />
     <ProjectReference Include="..\Tajan.Infrastruture\Tajan.Infrastructure.External\Tajan.Infrastructure.External.csproj" />
-    <ProjectReference Include="..\Tajan.Infrastruture\Tajan.Infrastructure.Persistense\Tajan.Infrastruture.Persistence.csproj" />
+    <ProjectReference Include="..\Tajan.Infrastruture\Tajan.Infrastructure.Persistense\Tajan.Infrastructure.Persistence.csproj" />
   </ItemGroup>
 
 </Project>
